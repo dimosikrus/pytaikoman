@@ -1,2 +1,2 @@
 # pytaikoman
-from repo taikoman C#
+from repo [taikoman](https://github.com/vbinudx/taikoman) C#
